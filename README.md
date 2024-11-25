@@ -1,4 +1,5 @@
 - clone the project
+- navigate to "Parser_files_" directory
 - open ubuntu
 - run "bash run.sh"
 - try out a few inputs based on the grammar 
